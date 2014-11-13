@@ -18,8 +18,8 @@ Interview Coding Question Summary
 ####**General Questions** 
 
 > - Helper class
-> - JVM Garbage Collection
-> - HashMap and Hashtable  What if I use HashMap in corrency control
+> - JVM Garbage Collection. Memory Leak
+> - HashMap and Hashtable  What will happen if I use HashMap in multithreading 
 > - Suffix Array 
 > - Trie
 > - KMP
