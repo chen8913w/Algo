@@ -24,3 +24,7 @@ Interview Coding Question Summary
 > - Trie
 > - KMP
 > - Union-Find
+
+poj3273
+poj3258
+poj3122

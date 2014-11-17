@@ -34,13 +34,11 @@ public class poj2945 {
 			}
 			int[] output = new int[number];
 			for (Entry<String, Integer> keyset : hashcount.entrySet()) {
-				output[keyset.getValue()-1]++;
+				output[keyset.getValue() - 1]++;
 			}
-			System.out.println("");
-			for (int i = 0; i < output.length; i++) {			
+			for (int i = 0; i < output.length; i++) {
 				cout.println(output[i]);
 			}
-			System.out.println("");
 		}
 		cout.flush();
 	}
