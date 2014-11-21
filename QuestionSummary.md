@@ -28,3 +28,5 @@ Interview Coding Question Summary
 poj3273
 poj3258
 poj3122
+
+http://dongxicheng.org/search-engine/system-designing-in-finging-jobs/
